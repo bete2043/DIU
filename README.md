@@ -33,31 +33,31 @@ Miembros
 ![Método UX](img/Competitive.png) **1.a User Reseach Plan**
 -----
 
->>> Describe el plan de User Research (cómo se planteas)  
+>>> En el User Research hemos realizado un análisis de interfaces de usuario relacionadas con el sector turístico en Granada.
 
 ![Método UX](img/Competitive.png) 1.b Competitive Analysis
 -----
 
->>> Describe brevemente características de las aplicaciones que tienes asignadas, y por qué has elegido una de ellas 
+>>> Hemos elegido Nevadensis ya que es la aplicación que mejores prestaciones nos da, ya que sus precios son competitivos, tienes muchas actividades y ademas su interfaz es muy buena y intuitiva.
 
 ![Método UX](img/Persona.png) 1.c Persona
 -----
 
->>> Comenta brevemente porqué has seleccionado a esas personas y sube una captura de pantalla de su ficha  
+>>> Hemos elegido dos personas: una chica de 35 años amante de las aventuras de riesgo y un chico de 28 años que busca nuevos hobbies para evadirse de su trabajo. La capturas se encuentran en la P1. 
 
 ![Método UX](img/JourneyMap.png) 1.d User Journey Map
 ----
 
 
->>> Comenta brevemente porqué has escogido estas dos experiencias de usuario (y si consideras que son habituales) 
+>>> La chica buscaba aprender nuevos deportes por lo que ha buscado información sobre que deportes hacer pero le ha surgido un porblema debido a que la gente ha abandonado la actividad y faltaba gente. El chico busca mejorar física y mentalmente buscando un deporte que le guste por lo que busca opiniones de personas con su mismo problema el problema es que no termina de encontrar que actividad cumple con sus requisitos.
 
 ![Método UX](img/usabilityReview.png) 1.e Usability Review
 ----
 >>>  Revisión de usabilidad: (toma los siguientes documentos de referncia y verifica puntos de verificación de  usabilidad
 >>>> SE deben incluir claramente los siguientes elementos
->>> - Enlace al documento:  (sube a github el xls/pdf) 
->>> - Valoración final (numérica): 
->>> - Comentario sobre la valoración:  (60-120 caracteres)
+>>> - Enlace al documento:  [(sube a github el xls/pdf) ](https://github.com/bete2043/DIU/blob/master/P1/Usability-review-template.xlsx)
+>>> - Valoración final (numérica): 73
+>>> - Comentario sobre la valoración:  (60-120 caracteres)Nos ha salido una valoración de 73, esto indica que la aplicación esta bien aunque hay algunas cosas que hay que mejorar. Unas de las cosas que hay que mejorar es el buscador ya que no permite hacer búsquedas con filtros. Por lo demás la interface esta bien realizada ya que cumple con todo lo necesario para ofrecer un servicio de calidad necesario para poder reservar cualquier actividad que deseemos. En conclusión, la aplicación esta bien hecha por lo que ofrece al usuario un buen servicio cumpliendo con todas las espectativas de este.
 
 
 ## Paso 2. UX Design  
