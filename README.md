@@ -155,8 +155,7 @@ Gracias a esto, se pueden mostrar una serie de  imágenes y comentarios de forma
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
-
->>> Layout: Mockup / prototipo HTML  (que permita simular tareas con estilo de IU seleccionado)
+[Enlace](https://www.figma.com/design/dLHjxgrZM3L5WOI7Do9CoY/Guidelines-%26-Layout?node-id=77%3A830&t=JlTJYw2a5UhbiYQ6-1)
 
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
