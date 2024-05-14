@@ -20,10 +20,6 @@ Miembros
 ----- 
 
 
-
->>> Este documento es el esqueleto del report final de la práctica. Aparte de subir cada entrega a PRADO, se debe actualizar y dar formato de informe final a este documento online. Elimine este texto desde la práctica 1
-
-
 # Proceso de Diseño 
 
 ## Paso 1. UX User & Desk Research & Analisis 
@@ -160,10 +156,7 @@ Gracias a esto, se pueden mostrar una serie de  imágenes y comentarios de forma
 
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
-
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto
+Tras el correspondiente estudio y desarrollo de las diferentes secciones de la práctica podemos definir nuestro producto como una aplicación basada en un club de fotografía de granada, que ofrece todo tipo de posiblidades para poder aprender sobre el mundo de la fotografía para todo tipos de niveles. Los integrantes se presentan como un equipo cercano y con experiencia, con ganas de enseñar y poner en práctica todos sus conocimientos. La aplicación ofrece cursos para gente nueva y experimentada, atrayendo a todo tipo de públicos.
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
