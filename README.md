@@ -5,7 +5,7 @@ Grupo: DIU3_TecladoyRaton.  Curso: 2023/24
 Updated: 11/2/2024
 
 Proyecto: 
->>> Foto Élite
+Foto Élite
 
 Descripción: 
 
