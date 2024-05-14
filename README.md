@@ -115,14 +115,13 @@ Término | Significado
 -----
 Nuestro moodboard aborda 6 apartados esenciales para el desarrollo: Colores, Logo, Eslogan, Tipografía, Imágenes inspiradoras y Comentarios de usuarios.
 Para el logotipo hemos usado la web designevo. Cuenta con grandes plantillas y formas de diseño. Nuestro logo tiene varias versiones, variando en estas los colores y letra. Empleamos tonalidades blanco/negro y azules.
-<p><img src="https://raw.githubusercontent.com/bete2043/DIU/master/P3/moodboard.png" alt="Moodboard" />
+<p><img src="https://raw.githubusercontent.com/bete2043/DIU/master/P3/MoodBoard.png" alt="Moodboard" />
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
 ----
+<p><img src="https://raw.githubusercontent.com/bete2043/DIU/master/P3/LandingPage.jpg" alt="LandingPage" />
 
-
->>> Plantear Landing Page 
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
