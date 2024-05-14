@@ -113,11 +113,9 @@ Término | Significado
 
 ![Método UX](img/moodboard.png) 3.a Moodboard
 -----
-
-
->>> Plantear Diseño visual con una guía de estilos visual (moodboard) 
->>> Incluir Logotipo
->>> Si diseña un logotipo, explique la herramienta utilizada y la resolución empleada. ¿Puede usar esta imagen como cabecera de Twitter, por ejemplo, o necesita otra?
+Nuestro moodboard aborda 6 apartados esenciales para el desarrollo: Colores, Logo, Eslogan, Tipografía, Imágenes inspiradoras y Comentarios de usuarios.
+Para el logotipo hemos usado la web designevo. Cuenta con grandes plantillas y formas de diseño. Nuestro logo tiene varias versiones, variando en estas los colores y letra. Empleamos tonalidades blanco/negro y azules.
+<p><img src="https://raw.githubusercontent.com/bete2043/DIU/master/P3/moodboard.png" alt="Moodboard" />
 
 
 ![Método UX](img/landing-page.png)  3.b Landing Page
