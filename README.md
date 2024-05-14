@@ -125,9 +125,33 @@ Para el logotipo hemos usado la web designevo. Cuenta con grandes plantillas y f
 
 ![Método UX](img/guidelines.png) 3.c Guidelines
 ----
+### Menú de navegación
+Permite la navegación por las diferentes secciones de la página. Algunos elementos destacables:
+- **Iconos:** Indica el sitio de la aplicación donde se encuentra el usuario.
+  
+### Barra de navegación
+Permite al usuario la búsqueda de todo tipo de contenidos relaciones con el club (cursos, galerías, nuestro equipo...)
 
->>> Estudio de Guidelines y Patrones IU a usar 
->>> Tras documentarse, muestre las deciones tomadas sobre Patrones IU a usar para la fase siguiente de prototipado. 
+### Cartas
+Contenedores llamativos, que ilustran información relevante acompañados de una imagen representativa. Permiten al usuario poder inscribirse o consular mediante un botón más información al respecto. Algunas partes esenciales son:
+- **Título** 
+- **Imagen**
+- **Descripción**
+- **Botón**
+ 
+### Botones
+Permite al usuario realizar acciones claves dentro de la páginas como inscribirse, subir una publicación, publicar un nuevo comentario en el foro....
+
+### Carrito de Compra
+Implementa una sección dentro de la página para que el usuario pueda procesar los productos añadidos a la cesta. Incluye tanto una parte de añadir/eliminar productos así como consultar precios y otra de proceso de pago (datos bancarios).
+
+### Formulario
+Se trata de una zona de registro para nuevos usuarios o de inicio de sesión para aquellos ya registrados. También hay otro formulario de inscripción para los cursos disponibles y para poder publicar una nueva foto. Algunos elementos son:
+- **Campo de texto**
+- **Botón de confirmaciónn**
+
+### Carrousel
+Gracias a esto, se pueden mostrar una serie de  imágenes y comentarios de forma seguida, en un mismo espacio dentro de la página.
 
 ![Método UX](img/mockup.png)  3.d Mockup
 ----
