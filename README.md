@@ -8,11 +8,10 @@ Proyecto:
 Foto Élite
 
 Descripción: 
-
->>> Describa la idea de su producto en la práctica 2 
+Se trata de una página web de un club de fotografía en el que se imparten cursos y conocimientos sobre el mundo de la fotografía y permite a las personas poder conocer más sobre este campo.
 
 Logotipo: 
->>> Opcionalmente si diseña un logotipo para su producto en la práctica 3 pongalo aqui
+<p><img src="https://raw.githubusercontent.com/bete2043/DIU/master/P3/logo.png" alt="Logo" />
 
 Miembros
  * :bust_in_silhouette:   Carlos Fernandez Arrabal     :octocat:     
