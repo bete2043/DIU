@@ -160,6 +160,8 @@ Gracias a esto, se pueden mostrar una serie de  imágenes y comentarios de forma
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 Tras el correspondiente estudio y desarrollo de las diferentes secciones de la práctica podemos definir nuestro producto como una aplicación basada en un club de fotografía de granada, que ofrece todo tipo de posiblidades para poder aprender sobre el mundo de la fotografía para todo tipos de niveles. Los integrantes se presentan como un equipo cercano y con experiencia, con ganas de enseñar y poner en práctica todos sus conocimientos. La aplicación ofrece cursos para gente nueva y experimentada, atrayendo a todo tipo de públicos.
+Durante el desarrollo de la práctica se han tenido diferentes problemas como la dificultad de adaptar los bocetos al diseño layout, establecer un menu de navegación visible o adaptar el diseño a móvil. Estos problemas han sido resultos y han llevado a la elavoración de un buen diseño layout.
+Además, algunos de los patrones de diseño que se han usado han sido formularios, menu de navegación, carrito de compra, conocenos, carrusel de imágenes, calendario y cartas informativas. Todos estos patrones han sido adaptados a nuestra aplicación.
 
 
 ## Paso 5. Exportación & evaluación con Eye Tracking 
