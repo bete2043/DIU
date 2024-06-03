@@ -178,8 +178,36 @@ Se realizarán pruebas de eyetracking a los usuarios de la aplicación B y un cu
 Diseño del experimento 
 ----
 
->> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
->> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
+En esta parte, se va a realizar un análisis y descripción de los resultados obtenidos
+tras el eye tracking realizado. Las diferentes tareas que se han evaluado han sido:
+- Tarea supervisada de atención: Acceder y obtener información sobre un
+torneo de ajedrez (Caso B) / curso de fotografía(Caso A).
+- Tarea de exploración: observar la página principal y lo más llamativo.
+
+  La explicacion de cada tarea y los AOI estan en la P4 en el fichero EYETRACKING
+
+  <p align="center">
+  <b>Caso A</b>
+</p>
+
+<p align="center">
+  <img src="P4/imagencasoA.png" alt="Caso A" width="400"/>
+</p>
+
+---
+<p align="center">
+  <b>Caso B</b>
+</p> 
+
+<p align="center">
+  <img src="P4/imagencasoB.png" alt="Caso B" width="200" height = "400"/>
+  <img src="P4/imagen1casoB.png" alt="Caso B" width="200" height = "400"/>
+</p>
+
+
+Resultados y valoración 
+-----
+
 <p align="center">
   <b>Caso A</b>
 </p>
@@ -200,16 +228,6 @@ Diseño del experimento
 
 
 
-Resultados y valoración 
------
-
-
-
->> Cambiar por tus resultados
-![Resultado](img/resultadoET.png)  
-
-
-
 ## Paso 4. Evaluación 
 
 
@@ -217,7 +235,9 @@ Resultados y valoración
 ----
 
 
->>> Breve descripción del caso asignado con enlace a  su repositorio Github
+Para la realización de esta práctica vamos a estudiar la aplicaión diseñada por el grupo OlivasAndaluzas el cual ha sido asignado por el profesor. El nombre del proyecto es: “Mundo del Tablero” que trata sobre torneos de ajedrez.
+
+Enlace a github: (https://github.com/jluisparrazor/DIU)
 
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
