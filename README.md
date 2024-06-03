@@ -270,12 +270,7 @@ requiere de ciertas mejoras.
 Enlace al Usability Report: https://github.com/bete2043/DIU/blob/master/P4/P4_UsabReport_OlivasAndaluzas_doneby_DIU3_TecladoyRaton.pdf
 
 
-
-
-
-5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
-----
-
+## Paso 5. Conclusiones 
 Como conclusión, la aplicación tiene una buena estructura y buen diseño en general. Los
 colores son perfectamente legibles y hacen buen contraste. La interfaz no es compleja
 salvo a la hora de acceder a las inscripciones de los torneos. Cumple con la
@@ -297,15 +292,14 @@ que sobrecarga la página para ello la solución sería o eliminar información
 innecesaria o agregar más páginas para repartir la información.
 
 
-
-
+5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
+----
 
 
 ## Conclusión final / Valoración de las prácticas
 
 
->>> (90-150 palabras) Opinión FINAL del proceso de desarrollo de diseño siguiendo metodología UX y valoración (positiva /negativa) de los resultados obtenidos  
-
+Una vez finalizadas las prácticas, podemos llegar a una conclusión final: La realización de las 4 prácticas nos ha ayudado a cuidar mucho la experiencia que tiene el usuario a la hora de utilizar aplicaciones web. Además, hemos aprendido nuevos diseños de interfaces y a como trabajar enfocados en las necesidades del usuario. Por otro lado, hemos entrado en contacto con nuevas herramientas de trabajo como Figma que facilitan el desarrollo de aplicaciones y permiten una buena organización a la hora de trabajar. A su vez, hemos aprendido a analizar las diferentes partes y estructuras de una aplicación, valorarlas y aplicarles mejoras necesarias. En definitiva, hemos aprendido una nueva forma de trabajar, nuevos aspectos y herramientes muy útiles dentro de este sector.
 
 
 
