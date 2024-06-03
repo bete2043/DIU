@@ -253,7 +253,15 @@ Estas son las 4 personas que hemos selecionado:
 http://usabilitygeek.com/how-to-use-the-system-usability-scale-sus-to-evaluate-the-usability-of-your-website/)
 Para más información, consultar aquí sobre la [metodología SUS](https://cui.unige.ch/isi/icle-wiki/_media/ipm:test-suschapt.pdf)
 
->>> Adjuntar captura de imagen con los resultados + Valoración personal 
+  <img src="P4/resultados_SUS.png" alt="Caso B" width="600" height = "600"/>
+
+Los resultados SUS del caso B han sido de 65 y 80.Estos resultados serían de resultado
+marginal D y aceptable de tipo B respectivamente. Esta puntuación indica que la web es
+buena y que puede ser usada por los usuarios sin problemas aunque hay partes
+mejorables.
+Si se hace una media de ambos obtendremos un resultado de 72.5 que equivaldría a
+Tipo C, lo que significa que la aplicación es buena, tiene una buena estructura aunque
+requiere de ciertas mejoras.
 
 
 ![Método UX](img/usability-report.png) 4.d Usability Report
