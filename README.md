@@ -181,14 +181,28 @@ Diseño del experimento
 >> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
 >> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
 
-CASO A
-![experimento](P4/eyettrackingCaseA.png)  
+<p align="center">
+  <img src="P4/eyettrackingCaseA.png" alt="Caso A" width="400"/>
+</p>
 
+<p align="center">
+  <b>Caso A</b>
+</p>
 
+---
 
-CASO B
-![experimento](P4/eyetrackingCaseB.png)  
-![experimento](P4/eyetrackingCaseb.png)  
+<p align="center">
+  <img src="P4/eyetrackingCaseB.png" alt="Caso B" width="400"/>
+</p>
+
+<p align="center">
+  <b>Caso B</b>
+</p>
+
+<p align="center">
+  <img src="P4/eyetrackingCaseb.png" alt="Caso B" width="400"/>
+</p>
+
 
 
 Resultados y valoración 
