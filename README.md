@@ -267,11 +267,7 @@ requiere de ciertas mejoras.
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
->> Añadir report de usabilidad para práctica B (la de los compañeros)
-
-
-
->>> Valoración personal 
+Enlace al Usability Report: https://github.com/bete2043/DIU/blob/master/P4/P4_UsabReport_OlivasAndaluzas_doneby_DIU3_TecladoyRaton.pdf
 
 
 
@@ -280,10 +276,25 @@ requiere de ciertas mejoras.
 5.) Conclusion de EVALUACION (A/B testing + usability report + eye tracking) 
 ----
 
-
->> recupera el usability report de tu práctica (que es el caso B de los asignados a otros grupos) 
->> con los resultados del A/B testing, de eye tracking y del usability report:
->>  comentad en 2-3 parrafos cual es la conclusion acerca de la realización de la práctica y su evaluación con esas técnicas y que habéis aprendido
+Como conclusión, la aplicación tiene una buena estructura y buen diseño en general. Los
+colores son perfectamente legibles y hacen buen contraste. La interfaz no es compleja
+salvo a la hora de acceder a las inscripciones de los torneos. Cumple con la
+funcionalidad de una aplicación de torneos (inscribirse, comprar, comentarios,
+ubicación, fechas…).
+Aunque es cierto que se podrían mejorar ciertos aspectos y corregir algunos errores
+para aumentar la calidad y funcionalidad de la aplicación, haciendo que sea manejable
+por un mayor público.
+### Incidencias
+El último usuario ha tenido que ser ficticio debido a la falta de voluntarios.
+### Recomendaciones y Mejoras
+La aplicación presenta los siguientes problemas, que en el caso de solucionarse
+mejoraría la aplicación. Las soluciones son las siguientes:
+- A la hora de apuntarse a un torneo poner más claro e intuitivo como acceder a la
+página para apuntarse. Para ello, una idea sería colocar un botón visible que te
+lleve hasta la página para apuntarte a los torneos.
+- Otra mejora sería reducir la información que se encuentra en algunas páginas ya
+que sobrecarga la página para ello la solución sería o eliminar información
+innecesaria o agregar más páginas para repartir la información.
 
 
 
