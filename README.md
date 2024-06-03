@@ -243,7 +243,7 @@ Enlace a github: (https://github.com/jluisparrazor/DIU)
 ----
 Estas son las 4 personas que hemos selecionado:
 
-  <img src="P4/usuarios_ficticios.png" alt="Caso B" width="200" height = "400"/>
+  <img src="P4/usuarios_ficticios.png" alt="Caso B" width="800" height = "400"/>
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
