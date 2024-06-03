@@ -171,7 +171,9 @@ Exportación a HTML/Flutter
 
 ![Método UX](img/eye-tracking.png))  5.b Eye Tracking method 
 
->>> Indica cómo diseñas experimento y reclutas usuarios (uso de gazerecorder.com)  
+Para la realización de esta práctica vamos a hacer una comparativa entre nuestra aplicación (A) y otra seleccionada por el profesorado (B). El nombre de los proyectos son: “Foto Élite” que trata sobre un club de fotografía y “Mundo del Tablero” que trata sobre torneos de ajedrez. 
+Para hacer esta comparativa de ambos proyectos se elegirán a 4 usuarios diferentes para comprobar la funcionalidad y rendimiento de la página. Dos de ellos se encargarán de probar la aplicación A y los otros dos se encargarán de la aplicación B.    
+Se realizarán pruebas de eyetracking a los usuarios de la aplicación B y un cuestionario SUS para obtener resultados sobre la calidad de la aplicación. Para finalizar, se complementará todo ello con un Usabilty Report sobre la aplicación B.
 
 Diseño del experimento 
 ----
@@ -179,11 +181,15 @@ Diseño del experimento
 >> Uso de imágenes (preferentemente) -> hay que esablecer una duración de visualización y  
 >> fijar las áreas de interes (AoI) antes del diseño. Planificar qué tarea debe hacer el usuario (buscar, comprar...) 
 
+CASO A
+![experimento](P4/eyettrackingCaseA.png)  
 
-![experimento](img/experimentoET.png)  
->> cambiar img por tu diseño de experimento  
 
->> Recordar que gazerecorder es una versión de pruebas: usar sólo con 3 usuarios para generar mapa de calor (recordar que crédito > 0 para que funcione) 
+
+CASO B
+![experimento](P4/eyetrackingCaseB.png)  
+![experimento](P4/eyetrackingCaseb.png)  
+
 
 Resultados y valoración 
 -----
