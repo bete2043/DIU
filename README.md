@@ -227,7 +227,6 @@ Resultados y valoración
 </p>
 
 
-
 ## Paso 4. Evaluación 
 
 
@@ -242,16 +241,9 @@ Enlace a github: (https://github.com/jluisparrazor/DIU)
 
 ![Método UX](img/usability-testing.png) 4.b User Testing
 ----
+Estas son las 4 personas que hemos selecionado:
 
->>> Seleccione 4 personas ficticias. Exprese las ideas de posibles situaciones conflictivas de esa persona en las propuestas evaluadas. Asigne dos a Caso A y 2 al caso B
- 
-
-| Usuarios | Sexo/Edad     | Ocupación   |  Exp.TIC    | Personalidad | Plataforma | TestA/B
-| ------------- | -------- | ----------- | ----------- | -----------  | ---------- | ----
-| User1's name  | H / 18   | Estudiante  | Media       | Introvertido | Web.       | A 
-| User2's name  | H / 18   | Estudiante  | Media       | Timido       | Web        | A 
-| User3's name  | M / 35   | Abogado     | Baja        | Emocional    | móvil      | B 
-| User4's name  | H / 18   | Estudiante  | Media       | Racional     | Web        | B 
+  <img src="P4/usuarios_ficticios.png" alt="Caso B" width="200" height = "400"/>
 
 
 ![Método UX](img/Survey.png) 4.c Cuestionario SUS
