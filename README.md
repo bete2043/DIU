@@ -194,8 +194,8 @@ Diseño del experimento
 </p> 
 
 <p align="center">
-  <img src="P4/eyetrackingCaseB.png" alt="Caso B" width="400"/>
-  <img src="P4/eyetrackingCaseb.png" alt="Caso B" width="400"/>
+  <img src="P4/eyetrackingCaseB.png" alt="Caso B" width="400" height = "600"/>
+  <img src="P4/eyetrackingCaseb.png" alt="Caso B" width="400" height = "600"/>
 </p>
 
 
